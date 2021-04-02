@@ -5,3 +5,5 @@
 'Segunda modificación'
 
 'Modificación reaizada desde github'
+
+'Modificación realizada en el editor local'
